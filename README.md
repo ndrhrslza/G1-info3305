@@ -128,5 +128,9 @@ This is the button for admin to log out from the system.
 
 ![Screenshot (224)](https://github.com/ndrhrslza/G1-info3305/assets/92364877/e0143c88-dad5-4482-bab4-829828e57754)
 
-
+## Challenges to develop the application
+  
+  1. It was difficult for us to fix the errors as not all of the members have the same free time, so we did not manage to hold a meeting.
+  2. Apache & MySQL in Xampp always crash after have been using them for days and it delayed our progress to complete the project.
+  3. VS Code always lag and we had to restart our device refresh the app.
 
