@@ -49,3 +49,9 @@
 
 ## Project System
 ### Homepage 
+
+This is the display of our homepage to the end user
+![Screenshot (207)](https://github.com/ndrhrslza/G1-info3305/assets/92364877/8532c18e-d805-465b-b4bb-0f9c116c1e1a)
+![Screenshot (209)](https://github.com/ndrhrslza/G1-info3305/assets/92364877/5f642a06-094b-40cd-ad43-03cc9450a597)
+![Screenshot (210)](https://github.com/ndrhrslza/G1-info3305/assets/92364877/b8f56cd0-7949-4edf-819c-ff823ee93bb9)
+
