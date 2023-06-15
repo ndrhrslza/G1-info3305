@@ -39,7 +39,7 @@
   
  ## Include ERD for your database tables with relationships.
  
- ![Picture1](https://github.com/ndrhrslza/INFO3305_G1_s2/assets/92364877/015d61dc-70ae-4ab3-9b30-7bc326046ca4)
+![erd zahra](https://github.com/ndrhrslza/G1-info3305/assets/92364877/189bd455-9c71-4407-8a0b-8119d4015793)
 
 
  ## A sequence diagram to represent the interaction of the proposed web application.
