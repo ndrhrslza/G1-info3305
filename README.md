@@ -1,53 +1,47 @@
-# Restaurant Reservation Application
-
-I'm trying to deepen my knowledge about Laravel, especially about relationships between tables. By creating this repository, I hope to deepen my knowledge of SQL and Laravel.
-
-## Installation
-```
-- git clone https://github.com/Caknoooo/restaurant-reservation-app.git
-- cd restaurant-reservation-app
-- open your IDE or Editor Code
-- cp .env.example .env
-- open terminal again, and run:
-    1. composer install
-    2. php artisan migrate
-    3. php artisan db:seed
-    4. php artisan serve
-    5. npm run dev
-- open http://127.0.0.1:8000/ in browser 
-```
-
-## Frontend
-Landing page
-![image](https://user-images.githubusercontent.com/92671053/213943897-e075d0fb-b801-496d-aceb-7beb6ad6aae9.png)
-
-Category
-![image](https://user-images.githubusercontent.com/92671053/213944452-83e7caf5-b858-4d22-ac1b-9efef9ef9441.png)
-
-Menu
-![image](https://user-images.githubusercontent.com/92671053/213944465-c6376640-0557-4a9e-bf2b-e81deaa380f5.png)
-
-Make Reservation
-![image](https://user-images.githubusercontent.com/92671053/213944502-ca889b33-6421-4a16-bb63-55728f86db0e.png)
-
-![image](https://user-images.githubusercontent.com/92671053/213944517-2ab97676-3662-4448-9178-b114235720bf.png)
+# INFO3305_G1_s2
+## Group Members:
+1. ‘ALYAA’ BALQIS BINTI MOHAMAD ASRI    (2110610) 
+2. NUR AUFA INSYIRAH BINTI MOHD KAMAL   (2119234) 
+3. RAIHANATUZZAHRA BINTI AZMI           (2114488) 
+4. NORSAIDATUL HANIM BINTI HURI         (1924280) 
+5. NADIRAH BINTI ROS LIZA               (2027832)
+6. BAIJURI RAJA HAMIDAH TEJA            (1911038)
 
 
-## Backend
-Categories
-![image](https://user-images.githubusercontent.com/92671053/213944747-c4c81e24-266f-4781-9e52-c9f7252b50fe.png)
+ ## Introduction of the proposed web application. 
 
-Menus
-![image](https://user-images.githubusercontent.com/92671053/213944770-311ab5f6-d10c-40e6-b7a4-37501d16fd58.png)
+   We have decided to create an effective Restaurant Reservation System as we knew the importance of providing exceptional service, and ensuring a smooth dining experience for guests is our main priority. That is the reason why we want to develop a cutting-edge reservation system that simplifies the reservation process, maximizes table utilization, and enhances customer satisfaction. 
 
-Tables
-![image](https://user-images.githubusercontent.com/92671053/213944779-d54bec13-2bb1-4cdf-9d1c-af3380a66684.png)
+   Our Restaurant Reservation System is designed to revolutionize the way we manage reservations, empowering us to efficiently handle bookings, optimize seating arrangements, and deliver personalized service to our valued customers. 
+   
 
-Reservations
-![image](https://user-images.githubusercontent.com/92671053/213944789-7c1c5f13-d481-43db-9c3f-91637f020d21.png)
+## The objective of the proposed web application. 
+
+  The restaurant reservation management system aims to allow customers to reserve their tables online, as it enables them to see any tables and times that are still available. This may ease customers by saving them time and making them more efficient. Plus, this system is used to keep the restaurant functioning by tracking customer reservations to avoid any overlapping reservations between customers happen. Moreover, this system can acknowledge managers or staff to keep customers informed by streamlining seating, managing table turnover, and estimating wait times. This improves the visitor experience and keeps the employees organized. Thus, the restaurant will be able to provide better service by better-controlling workflow through reservations. Therefore, by creating the restaurant reservation management system, we proposed this project to achieve the following objectives. 
 
 
-## Reference
-- **[Laraveller](https://www.youtube.com/@Laraveller)**
-- **[Restaurant Template](https://larainfo.com/blogs/tailfood-free-tailwind-css-restaurant-template)**
-- **[Flowbite](https://flowbite.com/)**
+## Features and functionalities of the proposed web application.
+  **1.  Insert new record for reservation**
+   - Customer and staff can fill in form for reservation, by inserting
+  email, time and capacity.
+  
+  **2. Updating/edit record for reservation, customer and table**
+   - Alter reservation information in case of customer request for
+  different timing, capcacity and table number.
+  
+  **3. Deleting past records**
+   - Staff can delete past records of customer reservation and delete
+  cancelled reservation.
+  
+  **4. Updating/edit record for menu**
+   - Staff can add, edit or delete menu available.
+  
+  
+ ## Include ERD for your database tables with relationships.
+ 
+ ![Picture1](https://github.com/ndrhrslza/INFO3305_G1_s2/assets/92364877/015d61dc-70ae-4ab3-9b30-7bc326046ca4)
+
+
+ ## A sequence diagram to represent the interaction of the proposed web application.
+ 
+ ![Untitled Diagram drawio](https://github.com/ndrhrslza/INFO3305_G1_s2/assets/92364877/cc1dc96b-24b1-4248-b0c8-3b96f16d63f3)
