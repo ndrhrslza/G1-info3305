@@ -44,4 +44,5 @@
 
  ## A sequence diagram to represent the interaction of the proposed web application.
  
- ![Untitled Diagram drawio](https://github.com/ndrhrslza/INFO3305_G1_s2/assets/92364877/cc1dc96b-24b1-4248-b0c8-3b96f16d63f3)
+ ![photo_2023-06-15_00-19-03](https://github.com/ndrhrslza/G1-info3305/assets/92364877/ab423ed7-8412-445d-9548-84df86c5d99a)
+
