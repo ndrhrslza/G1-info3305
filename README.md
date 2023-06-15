@@ -7,7 +7,7 @@
 5. NADIRAH BINTI ROS LIZA               (2027832)
 6. BAIJURI RAJA HAMIDAH TEJA            (1911038)
 
-##Title of the project: Restaurant Reservation System
+## Title of the project: Restaurant Reservation System
 
  ## Introduction of the proposed web application. 
 
